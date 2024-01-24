@@ -43,6 +43,9 @@
     <Filter Include="ヘッダー ファイル\Utility">
       <UniqueIdentifier>{92d9e735-7050-4ee3-b223-779bcd3392de}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ソース ファイル\TestFilter">
+      <UniqueIdentifier>{f5fa107a-d881-434b-9386-b7b5441c5f1a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Src\Application.cpp">
@@ -78,6 +81,9 @@
     <ClCompile Include="Src\Scene\GameScene.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="Src\Object\TestObject.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Src\Common\Fader.h">
@@ -111,6 +117,9 @@
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
     <ClInclude Include="Src\Scene\GameScene.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Object\TestObject.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>
