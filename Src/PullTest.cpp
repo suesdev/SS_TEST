@@ -8,9 +8,7 @@ class PullTest
 {
 	void Init(void)
 	{
-		// ’†ŠÔˆ—‡@
-		// ’†ŠÔˆ—‡A
-		// ’†ŠÔˆ—‡B
+		// ’†ŠÔˆ—
 	}
 };
 // Œãˆ—
