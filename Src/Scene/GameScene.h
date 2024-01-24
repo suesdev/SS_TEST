@@ -19,4 +19,6 @@ public:
 
 private:
 
+	int a_;
+
 };
