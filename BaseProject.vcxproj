@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="Src\Object\TestObject.cpp" />
     <ClCompile Include="Src\PullTest.cpp" />
+    <ClCompile Include="Src\Scene\EventScene.cpp" />
     <ClCompile Include="Src\Scene\GameScene.cpp" />
     <ClCompile Include="Src\Application.cpp" />
     <ClCompile Include="Src\Common\Fader.cpp" />
@@ -35,6 +36,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Src\Object\TestObject.h" />
+    <ClInclude Include="Src\Scene\EventScene.h" />
     <ClInclude Include="Src\Scene\GameScene.h" />
     <ClInclude Include="Src\Application.h" />
     <ClInclude Include="Src\Common\Fader.h" />
