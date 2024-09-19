@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Src\Object\GimmickObject.cpp" />
     <ClCompile Include="Src\Scene\BattleScene.cpp" />
     <ClCompile Include="Src\Object\TestObject.cpp" />
     <ClCompile Include="Src\PullTest.cpp" />
@@ -36,6 +37,7 @@
     <ClCompile Include="Src\Utility\AsoUtility.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Src\Object\GimmickObject.h" />
     <ClInclude Include="Src\Scene\BattleScene.h" />
     <ClInclude Include="Src\Object\TestObject.h" />
     <ClInclude Include="Src\Scene\EventScene.h" />
